@@ -1,2 +1,2 @@
-# openeu
-OpenEU (Open Source Education Distro)
+# gutenberg
+Gutenberg Linux Distribution
